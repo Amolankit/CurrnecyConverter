@@ -1,5 +1,5 @@
 ﻿
-namespace CurrencyConverter.Domain;
+namespace CurrencyConverter.Domain.Model;
 
 public class Rate
 {
